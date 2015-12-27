@@ -1,5 +1,5 @@
 # About repo
-This repo contains write up for Practical Machine Learning course project. Write up .html and .Rmd files are submitted and prediction algorithm build up can be fully reproduced.
+This repo contains write up for Practical Machine Learning course project. Write up `.html` and `.Rmd` files are submitted and prediction algorithm build up can be fully reproduced.
 
 ##Background
 
